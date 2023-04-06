@@ -18,7 +18,7 @@
        
 				<!-- NAVIGATION MENUS -->
 					<div class="menu">
-					<li><a href="index.php">Index</a></li>
+					<li><a href="index.html">Index</a></li>
 						<li><a href="student.html">Add Student</a></li>
 						<li><a href="teacher.html">Add Teacher</a></li>
 						<li><a href="parent.html">Add Parent</a></li>
